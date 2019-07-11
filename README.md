@@ -5,3 +5,11 @@ This is my first time to contact the language. The contents including the homewo
 
 ## Sofware download
 [DEV C++](https://sourceforge.net/projects/orwelldevcpp/)
+The IDE is 
+## content 
+* printf / scanf 
+* for loop
+* switch case
+* while 
+* if else
+* complex issue
